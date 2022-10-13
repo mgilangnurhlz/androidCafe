@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Pemesanan</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Menu</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="text_intro">Pilihan Dessert</string>
+    <string name="donuts">Donat coklattt lezat ditambah dengan topping ceres.</string>
+    <string name="ice_cream_sandwiches">Ice cream vanilla dengan oreo dan juga keju.</string>
+    <string name="froyo">FroYo adalah Yoghurt sehat dan enak.</string>
+
+    <string name="donut_order_message">Kamu memesan Donat</string>
+    <string name="ice_cream_order_message">Kamu memesan Ice Cream.</string>
+    <string name="froyo_order_message">Kamu memesan FroYo.</string>
+
+    <string name="order_label_text"></string>
+    <string name="name_label_text">Nama</string>
+    <string name="enter_name_hint">Isi nama lengkap</string>
+    <string name="address_label_text">Alamat</string>
+    <string name="enter_address_hint">Isi alamat sekarang</string>
+    <string name="phone_label_string">No Telpon</string>
+    <string name="enter_phone_hint">Isi dengan nomor telepon</string>
+
+    <string name="notes_label">Catatan</string>
+    <string name="notes_text">Masukkan catatan</string>
+
+    <string name="same_day_messenger_service">Hari ini</string>
+    <string name="next_day_ground_delivery">Yakin esok sampai</string>
+    <string name="pick_up">Ambil sendiri</string>
+    <string name="choose_delivery_method">Pilih metode pengiriman</string>
+
+    <string name="city">Pilih Kota</string>
+    <string-array name="planets_array">
+        <item>Belitung</item>
+        <item>Bangka</item>
+        <item>Purwakarta</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Depok</item>
+        <item>jatinangor</item>
+        <item>Bogor</item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>
